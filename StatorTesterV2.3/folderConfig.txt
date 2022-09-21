@@ -1,0 +1,6 @@
+[folderPath]
+savePath = //ctgtech-lldc01/LL Production Data/Stator Test Results
+configPath = //CTGTECH-LLDC01.linearlabs.local/Production/Production Data/Stator Config Files
+idResponseLCR = XXXXX,,1.8.1
+idResponseHpot = GPT-9803 ,GEV191226   ,V3.07,
+idResponseStat = stator tester, test001, V2.0

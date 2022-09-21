@@ -1,0 +1,15 @@
+SCPI Protocol: MCR-5100
+
+Commands:
+*idn?       ID/version
+Returns: XXXXX,,1.8.1
+
+:fetch?     Fetch data
+Returns: L,R in scientific notation
+
+Serial settings: 115200,8,n,1
+
+Notes
+Once a serial command is sent, the keypad and display are locked.
+To exit the lock, press and hold the Tool button.
+

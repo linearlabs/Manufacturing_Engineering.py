@@ -1,0 +1,2 @@
+[config]
+idResponseArduino = Stator Winder, Semi-automatic, V1.0

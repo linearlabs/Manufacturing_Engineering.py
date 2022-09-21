@@ -1,0 +1,27 @@
+SCPI Protocol: GPT-9803
+
+Commands:
+*idn?       		ID/version
+Returns:    		GPT-9803 ,GEU220453   ,V3.07,
+
+func:test on  		conducts a test with current settings in unit
+
+meas?			fetch data of last func:test conducted
+Returns:       	 	ACW,PASS ,0.249kV,0.020 mA ,T=001.0S
+
+manu:acw:volt   	folled by a number this changes acw voltage in kV .100 = .100kV
+
+manu:acw:chis	    	follwed by a number, this changes hi set current in mA 10=10ma
+
+syst:err?               list current error code
+Returns:		20,Command Error or 0,No Error
+
+
+*cls			clears internal registers and error codes							
+
+Serial settings: 115200,8,n,1
+
+Notes
+Once a serial command is sent, the keypad and display are locked (RMT).
+To exit the lock, press and hold the Tool button.
+

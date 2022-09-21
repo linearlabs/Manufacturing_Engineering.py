@@ -1,0 +1,2 @@
+*idn? 			returns device name and version number
+rela:0,0,0,0 		sets 1 of 4 realays on or off

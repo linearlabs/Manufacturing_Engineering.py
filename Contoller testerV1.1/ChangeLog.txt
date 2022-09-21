@@ -1,0 +1,6 @@
+Controller Tester 
+V1.0 - Initial Release.
+V1.1 - Added multiiple power supplies to config file so 2 test rigs could use the same config file stored on a server.
+V1.1 - Made USB connection errors more robust, added a failure message explaining which USB Failed and how to fix it.
+V1.1 - added throttle to config files to make 50% and 100% adjustable without reprograming source code
+V1.1 - added acceleration/deceleration to config file which adjusts to ramp up/down time of motor speed, useful if back emf is causing power supplies to fry out.

@@ -1,0 +1,2 @@
+[folderPath]
+savePath = O:/Manufacturing Engineering/Rotor Test/Rotor Test Results

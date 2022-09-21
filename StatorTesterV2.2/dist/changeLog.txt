@@ -1,0 +1,1 @@
+V2.2 changed config file location from local to new location on the server \\CTGTECH-LLDC01.linearlabs.local\Production\Production Data\Stator Config Files

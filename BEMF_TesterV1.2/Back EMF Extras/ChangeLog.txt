@@ -1,0 +1,19 @@
+Back EMF Tester 
+V1.0 - Initial Release.
+V1.1 - Made initial startup timeout less scary with nuetral failure colors.
+V1.1 - Added USB failure handling.
+V1.1 - Added default Oscope Parameters to config file.
+V1.1 - Added screen dump of both oscopes.
+V1.1 - Changed Hall voltages from pkpk to ampl (amplitude).
+V1.1 - Added stator barcode input for capturing installed stator on datalog.
+V1.2 - Added arduino USB Relays for hall to phase alignment tests
+V1.2 - UI changes
+V1.2 - Added USB failure recovery
+V1.2 - Added HallB to PhaseB alignment testing
+V1.2 - Added HallC to PhaseC alignment testing
+V1.2 - removed pyPlot graphs
+V1.2 - added screen shots to .rtf files for creating reports
+V1.2 - removed countdown timer for rpm test and replaced with popup window with cancel button
+V1.2 - added cancel and skip buttons to stator barcode pop up window
+V1.2 - made paths configs locally saved and kept motor configs shared on server
+

@@ -1,0 +1,2 @@
+V1.3 changed cofigs from being hard coded to a text file system
+V1.4 changed config file path from local to new location on the server \\CTGTECH-LLDC01.linearlabs.local\Production\Production Data\Rotor Config Files

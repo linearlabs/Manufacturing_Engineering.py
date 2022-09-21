@@ -1,0 +1,32 @@
+SCPI Protocol: Stator Tester
+
+Commands:
+
+*idn?       		ID/version
+Returns:    		stator tester, test001, V2.0
+
+biid:	  		returns analog Back Iron ID
+
+hall:			returns a sample from the hall sensor
+
+ablr:1, ablr:0 		toggles a to b LCR test relays
+
+aclr:1, aclr:0 		toggles a to c LCR test relays
+
+bclr:1, bclr:0 		toggles b to c LCR test relays
+
+hpot:1, hpot:0 		toggles hi-pot test relays
+
+mnum: 			Magnet Number, enter mnum:48 for 48 stator poles
+
+yaxi: 			Y axis, enter ya1000 for 1000 steps	
+
+apol: 			a to b pole number
+
+cpol: 			c pole number	
+
+?			gives helpful list of commands					
+
+Serial settings: 115200,8,n,1
+
+

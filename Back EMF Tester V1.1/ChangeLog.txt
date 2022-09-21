@@ -1,0 +1,9 @@
+Back EMF Tester 
+V1.0 - Initial Release.
+V1.1 - Made initial startup timeout less scary with nuetral failure colors.
+V1.1 - Added USB failure handling.
+V1.1 - Added default Oscope Parameters to config file.
+V1.1 - Added screen dump of both oscopes.
+V1.1 - Changed Hall voltages from pkpk to ampl (amplitude).
+V1.1 - Added stator barcode input for capturing installed stator on datalog.
+

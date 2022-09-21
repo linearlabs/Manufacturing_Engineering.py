@@ -1,0 +1,8 @@
+[M10-000042-002]	
+totalMag=52
+ySteps=4450
+zSteps=13200
+initPole=N
+usesHS1=1
+usesHS2=0
+usesHS3=0

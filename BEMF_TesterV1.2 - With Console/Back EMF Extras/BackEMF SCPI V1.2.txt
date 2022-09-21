@@ -1,0 +1,4 @@
+Arduino Relay:
+
+*idn?		Returns: "BEMF Tester, Relays, V1.0"
+rela:x,x,x,x	(x=1 on) or (x=0 off) relay1,2,3,4

@@ -1,0 +1,25 @@
+[folderPath]
+resultsSavePath = //ctgtech-lldc01/LL Production Data/Back EMF Test Results/New folder
+screenshotsSavePath = //ctgtech-lldc01/LL Production Data/Back EMF Test Results/Reports
+configFolder = //CTGTECH-LLDC01.linearlabs.local/Production/Production Data/Back EMF Config Files
+skipButton = 1
+
+#### relays
+idResponseArduino = BEMF Tester, Relays, V1.0
+
+#### BEMF Scope1
+#### comPortScope1 = USB0::0xF4EC::0xEE38::SDSMMFCD5R9789::INSTR
+#### idResponse1 = Siglent Technologies,SDS1104X-E,SDSMMFCD5R9789,8.1.6.1.37R8
+
+#### BEMF Scope1
+#### idResponse1 = Siglent Technologies,SDS1104X-E,SDSMMEBX4R2887,8.1.6.1.37R8
+#### comPortScope1 = USB0::0xF4EC::0xEE38::SDSMMEBX4R2887::INSTR
+
+#### Dougs Oscope Use as spare during calibrations
+comPortScope1 = USB0::0xF4EC::0xEE38::SDSMMFCC5R2894::INSTR
+idResponse1 = Siglent Technologies,SDS1104X-E,SDSMMFCC5R2894,8.1.6.1.37R8
+
+#### BEMF Scope2
+idResponse2 = Siglent Technologies,SDS1104X-E,SDSMMEBQ4R5313,8.1.6.1.37R8
+comPortScope2 = USB0::0xF4EC::0xEE38::SDSMMEBQ4R5313::INSTR
+

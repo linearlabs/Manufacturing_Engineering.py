@@ -1,0 +1,4 @@
+[config]
+idResponseSpooler=Bobbin Winder, V1.0
+idResponseWireEncoder=Wire Length Encoder, V1.1
+macroPath = \\ctgtech-lldc01\Production\Production Data\Bobbin Winder Config Files\macros.txt
