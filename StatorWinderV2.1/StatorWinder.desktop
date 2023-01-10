@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=StatorWinder
+Exec=/home/winder/Desktop/StatorWinderV2.2/dist/StatorWinderV2.2
+Icon=/home/winder/Desktop/StatorWinderV2.2/dist/LLC-LOGO.gif
+StartUpNotify=true
+Terminal=false

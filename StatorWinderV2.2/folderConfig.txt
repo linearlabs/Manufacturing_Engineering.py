@@ -1,0 +1,3 @@
+[config]
+idResponseArduino = Stator Winder, Arduino MEGA, V2.1
+usbPortArduino = /dev/ttyACM0
