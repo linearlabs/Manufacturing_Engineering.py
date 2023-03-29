@@ -5,7 +5,8 @@ import websocket # pip install websocket-client
 def connect():
     global ws
     ws = websocket.WebSocket()
-    ws.connect("ws://172.16.0.212/python")
+    #ws.connect("ws://172.16.0.212/python")
+    ws.connect("ws://172.16.0.180/webserial")
     print(ws)
     ws.send("python connected")
 
@@ -20,7 +21,7 @@ def rcv(ws):
         if msgRecv != '':
             print(msgRecv)
             msgRecv=''
-            #ws.send("Ack")
+            ws.send("Ack")
 
 if __name__ == "__main__":
     try:

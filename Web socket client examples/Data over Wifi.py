@@ -12,7 +12,7 @@ class DummyClient(WebSocketClient):
         print (m)
 
 if __name__ == '__main__':
-    #try:
+    try:
         ws = DummyClient(esp8266host)
         ws.connect()
         print("Ready !")
@@ -22,7 +22,7 @@ if __name__ == '__main__':
           print(ws.recv().decode())
 
       
-        #ws.send("ON")
+        ws.send("ON")
         #ws.close()
         #exit()
 

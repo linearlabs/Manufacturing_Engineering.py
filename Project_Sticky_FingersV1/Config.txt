@@ -1,0 +1,22 @@
+[Config]
+pumpIP = 172.16.0.180
+pumpSpeed = 20
+pumpSteps = inf
+pumpHalfStep = 0
+rotTableIP = 172.16.0.110
+rotTableSpeed = 650
+rotTableSteps = 36000
+rotTableHalfStep = 0
+enableEncoders = 0
+resetEncoders = 0
+manualSpeed = 220
+primeSpeed = 20
+primeSteps = 100
+deprimeSpeed = 20
+deprimeSteps = -100
+# only set in config
+# warning setting both as primary will cause GPIOs to short
+# remove GPIO cable if setting both to primary
+rotTablePrimary = 1
+pumpPrimary = 0
+devMode = 1
