@@ -1,0 +1,11 @@
+[folderPath]
+# savePath = //ctgtech-lldc01/LL Production Data/Stator Test Results/
+savePath = C:/Users/DGammill/Desktop/StatorTesterBackupFiles
+# savePathOneFactory = //ctgtech-lldc01/LL Production Data/OneFactory_Files/Stator Test Results/
+savePathOneFactory = C:/Users/DGammill/Desktop/OneFactoryStator/
+configPath = //CTGTECH-LLDC01.linearlabs.local/Production/Production Data/Stator Config Files
+idResponseLCR = XXXXX,,1.8.1
+idResponseHpot = GPT-9803 ,GEV191226   ,V3.07,
+idResponseStat = stator tester, test001, V2.0
+CMM = Stator_Tester_1
+title = Stator Test Results

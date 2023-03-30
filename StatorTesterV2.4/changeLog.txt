@@ -1,0 +1,6 @@
+V2.2 changed config file location from local to new location on the server \\CTGTECH-LLDC01.linearlabs.local\Production\Production Data\Stator Config Files
+V2.3 changed config file to read one locally for device handling and one shared on the network for motor configs
+V2.3 add GUI changes and multi threading
+V2.3 made USB error handling plug and play
+V2.3 made an options menu
+V2.4 added a second output excel spreadsheet with One Factory formating
